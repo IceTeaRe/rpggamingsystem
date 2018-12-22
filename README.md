@@ -1,2 +1,2 @@
 # rpggamingsystem
-a roll/dnd inspired roleplaying dice ggame system
+a roll/dnd inspired roleplaying dice game system
